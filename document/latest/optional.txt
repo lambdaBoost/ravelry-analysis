@@ -1,0 +1,3 @@
+Optional notes to add if have room:
+
+* Parallelisation comes at the cost of reproducibility. Load balancing makes task allocation unpredictable and was left active in order to give max speedup.

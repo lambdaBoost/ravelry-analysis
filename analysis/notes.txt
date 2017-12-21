@@ -1,0 +1,3 @@
+The dimensionality reduction script takes the previously obtained dataset and can be run as is.
+
+The 'data' image is the dataset following dimensionality reduction. It should be used by all subsequent analyses.

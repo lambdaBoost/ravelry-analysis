@@ -1,0 +1,15 @@
+R image canbe loaded in from EC2 connection
+
+use this AMI: http://www.louisaslett.com/RStudio_AMI/
+
+use 'R' security instance
+
+to connect to instance, just paste public DNS into browser
+
+Next step will be to follow instructions here:
+https://www.r-bloggers.com/instructions-for-installing-using-r-on-amazon-ec2/
+This will allow Rpud library to be installed
+
+Once a suitable instance is created (with RStudio server and all required packages installed),
+save it as an AMI using this:
+http://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/tkv-create-ami-from-instance.html
